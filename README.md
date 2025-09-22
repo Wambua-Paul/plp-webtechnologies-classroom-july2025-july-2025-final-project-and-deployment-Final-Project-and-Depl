@@ -88,3 +88,29 @@ Deploy your project and confirm that:
 * Clean, well-organized, and commented code
 * Successful live deployment with a working link
 * Evidence of following best practices
+
+
+
+## Beginner Responsive Website
+
+This is a beginner-friendly 3-page website built using HTML5, CSS3, and JavaScript. It includes:
+
+- A responsive layout
+- Navigation between Home, About, and Contact pages
+- Image slider (on Home page)
+- Form validation (on Contact page)
+
+## 💻 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- GitHub Pages (for deployment)
+
+## 🔗 Live Demo
+
+(https://wambua-paul.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)
+
+
+
+
